@@ -3,32 +3,36 @@
 	height:50px;
 	width:500px;
 	background-color:gray;
-	margin:5px;
-	margin-left:320px;
+	margin:0px auto;
+	margin-top:5px;
+	margin-bottom:5px;
 }
 .text
 {
 	height:30px;
 	width:300px;
 	background-color:yellow;
-	margin:5px;
-	margin-left:400px;
+	margin:0px auto;
+	margin-top:5px;
+	margin-bottom:5px;
 }
 .button
 {
 	height:20px;
 	width:40px;
 	background-color:lightblue;
-	margin:5px;
-	margin-left:520px;
+	margin:0px auto;
+	margin-top:5px;
+	margin-bottom:5px;
 }
 .box
 {
 	height:150px;
 	width:320px;
 	background-color:gray;
-	margin:5px;
-	margin-left:390px;
+	margin:0px auto;
+	margin-top:5px;
+	margin-bottom:5px;
 }
 .first
 {
@@ -65,14 +69,14 @@
 .second .split1 .text
 {
 	height:140px;
-	width:300px;
+	width:320px;
 	background-color:white;
 	margin:5px;
 	border:1px solid black;
 }
 .second .split1 .box
 {
-	height:150px;
+	height:140px;
 	width:320px;
 	background-color:gray;
 	margin:5px;
@@ -87,7 +91,7 @@
 .second .split2 .text
 {
 	height:200px;
-	width:400px;
+	width:420px;
 	background-color:white;
 	margin:5px;
 	border:1px solid black;
